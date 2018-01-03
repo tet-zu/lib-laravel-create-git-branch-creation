@@ -3,6 +3,7 @@
     "description": "Console Helper For Git Branches Creation",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "dev",	
     "require": {},
 	"autoload": {
         "psr-4": {

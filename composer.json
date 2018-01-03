@@ -4,7 +4,6 @@
     "type": "library",
     "license": "MIT",
     "require": {},
-	"minimum-stability": "stable",
 	"autoload": {
         "psr-4": {
             "pdffiller\\GitBranchCreation\\": "src"

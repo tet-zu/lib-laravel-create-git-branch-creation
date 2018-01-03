@@ -1,0 +1,13 @@
+{
+    "name": "pdffiller/git-branch-creation",
+    "description": "Console Helper For Git Branches Creation",
+    "type": "library",
+    "license": "MIT",
+    "require": {},
+	"minimum-stability": "stable",
+	"autoload": {
+        "psr-4": {
+            "pdffiller\\GitBranchCreation\\": "src"
+        }
+    }
+}
